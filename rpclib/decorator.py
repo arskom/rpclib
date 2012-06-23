@@ -1,0 +1,1 @@
+from spyne.decorator import *
