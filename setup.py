@@ -9,9 +9,7 @@ from pkg_resources import resource_listdir
 from setuptools import setup
 from setuptools import find_packages
 
-import spyne
-
-VERSION = spyne.__version__
+VERSION = '2.8.0-rc'
 
 LONG_DESC = """\
 This is a simple, easily extendible rpc library that provides several useful
