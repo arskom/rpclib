@@ -1,0 +1,1 @@
+from spyne.protocol.dictobj import *
